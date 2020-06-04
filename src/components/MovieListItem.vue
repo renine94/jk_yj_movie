@@ -6,6 +6,7 @@
       <MovieListItemModal :movie="movie"/>
     </div>
   </div>
+
 </template>
 
 <script>
